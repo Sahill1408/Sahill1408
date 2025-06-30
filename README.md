@@ -22,7 +22,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 ```javascript
-const aditya = {
+   {
     role: "Software Developer",
     location: "India 🇮🇳",
     languages: ["JavaScript", "TypeScript", "Java", "Python"],
