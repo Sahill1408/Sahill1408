@@ -28,7 +28,7 @@
     languages: ["JavaScript", "TypeScript", "Java", "Python"],
     technologies: {
         frontend: ["React", "Angular", "Tailwind CSS", "Redux" ],
-        backend: ["Node.js", "Express.js" , "Django"],
+        backend: ["Node.js", "Express.js", "Django", "Spring Boot"],
         databases: ["MongoDB", "MySQL", "Firebase"],
         tools &devops: ["Git", "VS Code", "Figma", "Docker", "AWS", "CI/CD", "Postman"]
     },
