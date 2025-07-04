@@ -93,6 +93,15 @@
 - Performance optimized (56% → 88% speed boost)
 - AI-powered chatbot for customer support
 
+### 🖼️ ImaginAI - AI SaaS Text-to-Image Platform
+**Tech Stack:** MERN Stack, Tailwind CSS, Clipdrop API, Razorpay
+
+- AI-powered text-to-image generation using Clipdrop API
+- Secure JWT-based authentication and credit-based payment system
+- Integrated Razorpay for seamless transactions
+- Performance optimized (30% speed improvement via lazy loading, caching)
+- Scalable SaaS architecture for smooth user experience
+
 ---
 
 ## <img src="https://media.giphy.com/media/jqScX8b8BemE9Ae9eZ/giphy.gif" width="30"> Education & Achievements
