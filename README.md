@@ -107,7 +107,7 @@
 ## <img src="https://media.giphy.com/media/jqScX8b8BemE9Ae9eZ/giphy.gif" width="30"> Education & Achievements
 
 ### 🎓 Education
-- **Bachelor's of Computer Application** | Bharati Vidyapeeth University (IMED) (2022-2025) | CGPA: 8.5
+- **Bachelor's of Computer Application** | Bharati Vidyapeeth University (IMED) (2022-2025) | CGPA: 8.3
 - **Higher Secondary** | Bharati Vidyapeeth English Medium School (2022) | CGPA: 7.8
 
 ---
